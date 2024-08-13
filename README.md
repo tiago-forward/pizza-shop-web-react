@@ -62,3 +62,16 @@ Durante o desenvolvimento desse projeto, pude reforçar em como utilizar o Axios
   </li> -->
 </ul>
 
+## ESLint e Prettier
+
+<ul>
+  <li>
+    eslint @rocketseat/eslint-config -D
+  </li>
+  <li>
+    prettier-plugin-tailwindcss -D
+  </li>
+  <li>
+    eslint-plugin-simple-import-sort -D
+  </li>
+</ul>
