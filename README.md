@@ -60,8 +60,17 @@ Durante o desenvolvimento desse projeto, pude reforçar em como utilizar o Axios
   <li>
     <strong>React Router Dom:</strong> Para lidar com as rotas da aplicação.
   </li>
-    <li>
-    <strong>React Helmet Async:</strong>  Para alterar as metatags do React de cada página.
+  <li>
+    <strong>React Helmet Async:</strong> Para alterar as metatags do React de cada página.
+  </li>
+  <li>
+    <strong>React Hook Form:</strong> Para lidar com os formulários.
+  </li>
+  <li>
+    <strong>Zod:</strong> Para validação e transformação de dados.
+  </li>
+  <li>
+    <strong>Hook Form Resolvers:</strong> Para a integração do react-hook-form com as bibliotecas de validação.
   </li>
 </ul>
 
