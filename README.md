@@ -1,4 +1,4 @@
-# 04 Pizza Shop Web - Rocketseat
+# Pizza Shop Web - Rocketseat
 
 ## Tabela do Conteudos
 
@@ -6,17 +6,18 @@
   <!-- * [Exposição do projeto](#exposição-do-projeto) -->
   <!-- * [Objetivo](#objetivo) -->
   <!-- * [Desafio](#desafio) -->
-  <!-- * [Destaques de códigos](#destaques-de-código) -->
-    <!-- * [Consumo de API](#consumo-de-api) -->
-    <!-- * [Performance](#performance) -->
-  <!-- * [Curiosidade](#curiosidade) -->
-  <!-- * [Ferramentas](#ferramentas) -->
+  <!-- * [Destaques de códigos](#destaques-de-código)
+    * [Consumo de API](#consumo-de-api)
+    * [Performance](#performance) -->
+  * [Curiosidade](#curiosidade)
+  * [Ferramentas](#ferramentas)
+    * [ESLint e Prettier](#eslint-e-prettier)
 
 ## Introdução
 
-<!-- Esse é o primeiro projeto utilizando o framework NextJS apresentado na formação ReactJS do curso da [Rocketseat](https://app.rocketseat.com.br/cart/rocketseat-one?referral=tiago-forward&coupon=indicamgm&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one), passando por conceitos de SPA, server-side rendering (SSR) e static-site generation (SSG).
+Esse é um projeto que vai funcionar como um dashboard para lojistas que possuem um restaurante dentro de um aplicativo de delivery, como por exemplo o iFood. E nesse dashboard o lojista vai poder acompanhar as métricas do restaurante, como pedidos mensais, diários, utilizar gráficos e também acompanhar individualmente cada pedido, obter detalhes, quais itens foram vendidos, alterar status desses pedidos e cancelar.
 
-Durante as aulas podemos aprender a criar essa aplicação (Ignite Shop 1.0), porém foi apresenta em uma versão de 2 anos atrás, utilizada a pasta `pages` pude refazer a aplicação com o next14, com a pasta `app` para as páginas. -->
+Esse projeto é apresentado na formação ReactJS do curso da [Rocketseat](https://app.rocketseat.com.br/cart/rocketseat-one?referral=tiago-forward&coupon=indicamgm&utm_source=platform&utm_medium=organic&utm_campaign=venda&utm_term=mgm&utm_content=indication-lp_one), utilizando apenas o react puro sem nenhum framework.
 
 <!-- # Exposição do projeto
 
@@ -34,10 +35,10 @@ Durante as aulas podemos aprender a criar essa aplicação (Ignite Shop 1.0), po
 
 Durante o desenvolvimento desse projeto, pude reforçar em como utilizar o Axios para fazer as consultas da API do GitHub, onde foi realizado 3 tipos de busca, primeiro buscar os dados de usuário do perfil expondo na página principal, abaixo na mesma página, outra consulta a Api para exibir todas as issues do repositório, e por último, mais uma consulta, para expor em uma nova página os dados da issue que foi selecionada na primeira página. -->
 
-<!-- ## Curiosidade
+## Curiosidade
 
-- O next trabalha com 'File-System Routing', que significa "Roteamento baseado em arquvos físicos".
-- No next todas as imagens da aplicação são otimizadas automaticamente. -->
+- Pude conhecer e aprender a utilizar várias novas bibliotecas como ShadcnUi, ReactHelmetAsync e Sonner. 
+- Também revisei meus conhecimentos com ReactRouterDom e ReactHookForm.
 
 ## Ferramentas
 
@@ -77,7 +78,7 @@ Durante o desenvolvimento desse projeto, pude reforçar em como utilizar o Axios
   </li>
 </ul>
 
-## ESLint e Prettier
+### ESLint e Prettier
 
 <ul>
   <li>
