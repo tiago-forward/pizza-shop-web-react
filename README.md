@@ -43,23 +43,26 @@ Durante o desenvolvimento desse projeto, pude reforçar em como utilizar o Axios
 
 <ul>
   <li>
-    <strong>React</strong> Para a criação da interface a partir de componentes.
+    <strong>React:</strong> Para a criação da interface a partir de componentes.
   </li>
   <li>
-    <strong>TypeScript</strong> Para melhor sintaxe ao JavaScript.
+    <strong>TypeScript:</strong> Para melhor sintaxe ao JavaScript.
   </li>
   <li>
-    <strong>Nextjs</strong> Framework para deixar a aplicação web com alta qualidade.
+    <strong>Nextjs:</strong> Framework para deixar a aplicação web com alta qualidade.
   </li>
   <li>
     <strong>TailwindCSSpn:</strong> Para estilização de sites modernos sem sair do HTML.
   </li>
   <li>
-    <strong>Shadcn Ui</strong> Biblioteca de componentes pré-estilizados feitos em TailwindCSS.
+    <strong>Shadcn Ui:</strong> Biblioteca de componentes pré-estilizados feitos em TailwindCSS.
   </li>
-  <!-- <li>
-    <strong>Axios:</strong> Para requisições HTTP com biblioteca simples de usar em um pacote pequeno com uma grande interface.
-  </li> -->
+  <li>
+    <strong>React Router Dom:</strong> Para lidar com as rotas da aplicação.
+  </li>
+    <li>
+    <strong>React Helmet Async:</strong>  Para alterar as metatags do React de cada página.
+  </li>
 </ul>
 
 ## ESLint e Prettier
