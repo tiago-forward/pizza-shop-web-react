@@ -72,6 +72,9 @@ Durante o desenvolvimento desse projeto, pude reforçar em como utilizar o Axios
   <li>
     <strong>Hook Form Resolvers:</strong> Para a integração do react-hook-form com as bibliotecas de validação.
   </li>
+  <li>
+    <strong>Sonner:</strong> Um toast pré-estilizado para facilitar a exibição de mensagens de sucesso ou erro para o usuário.
+  </li>
 </ul>
 
 ## ESLint e Prettier
