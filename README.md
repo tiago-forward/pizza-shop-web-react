@@ -37,8 +37,9 @@ Durante o desenvolvimento desse projeto, pude reforçar em como utilizar o Axios
 
 ## Curiosidade
 
-- Pude conhecer e aprender a utilizar várias novas bibliotecas como ShadcnUi, ReactHelmetAsync e Sonner. 
-- Também revisei meus conhecimentos com ReactRouterDom e ReactHookForm.
+- Pude conhecer e aprender a utilizar várias novas bibliotecas como ShadcnUi, ReactHelmetAsync e Sonner.
+- Pude praticar também o TailwindCSS.
+- Revisei meus conhecimentos com ReactRouterDom e ReactHookForm.
 
 ## Ferramentas
 
